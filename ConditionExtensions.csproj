@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
+        <PackageId>Serilog.LoggerConfiguration.ConditionExtensions</PackageId>
+        <Title>ConditionSpecific Serilog.LoggerConfiguration</Title>
+        <Authors>Ivan Berezhnyk</Authors>
+        <PackageProjectUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration</RepositoryUrl>
     </PropertyGroup>
     
     <ItemGroup>
