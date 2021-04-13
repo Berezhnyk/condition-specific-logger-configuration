@@ -8,6 +8,10 @@
 `ForProduction` checks `ASPNETCORE_ENVIRONMENT` for `Production` value
 
 
+## Install 
+`Install-Package Serilog.LoggerConfiguration.ConditionExtensions -Version 1.0.0` or  
+`dotnet add package Serilog.LoggerConfiguration.ConditionExtensions --version 1.0.0`
+
 ## How to use
 ```
 Log.Logger = new LoggerConfiguration()
