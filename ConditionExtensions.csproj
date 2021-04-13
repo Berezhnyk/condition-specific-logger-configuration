@@ -6,8 +6,9 @@
         <Title>ConditionSpecific Serilog.LoggerConfiguration</Title>
         <Authors>Ivan Berezhnyk</Authors>
         <PackageProjectUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration/blob/main/LICENSE</PackageLicenseUrl>
+        <PackageLicense>https://github.com/Berezhnyk/condition-specific-logger-configuration/blob/main/LICENSE</PackageLicense>
         <RepositoryUrl>https://github.com/Berezhnyk/condition-specific-logger-configuration</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
     
     <ItemGroup>
